@@ -1,0 +1,3 @@
+BlogCatalog is the social blog directory which manages the bloggers and their blogs.
+
+Nodes are labeled by the group they belong. In each line, the first entry represents user, and the 2nd entry is the group index. 

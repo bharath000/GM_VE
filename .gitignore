@@ -1,0 +1,6 @@
+*.docx
+*.pptx
+*.pdf
+myenv/
+env_gm/
+node_embeddings/
