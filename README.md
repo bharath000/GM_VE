@@ -3,7 +3,7 @@
 ### These Node embeddings Generated are used as Feature Maps in various Downstream Tasks.
 
 
-<img src = "https://github.com/bharath000/GM_VE/blob/main/gm_project/label_graph_with_pos.png"/>
+<img src = "https://github.com/bharath000/GM_VE/blob/main/gm_project/label_graph_with_pos.png"/><br>
 ### Folder Structure:
 
 <b>Clustering</b> Graph Clustering using Knn, Laplacian Normalisation Eigen maps,Modularity Clustering and Non NFMV  <br>
