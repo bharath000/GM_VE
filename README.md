@@ -1,6 +1,6 @@
 ## Hybrid Node Embeddings of Homegenoius Graph/Network Using Both Conventioanl and Representative Learning Techniques
 
-### These Node embeddings Generated are used as Feature Maps in various Downstream Tasks.
+### These Node embeddings Generated are used as Feature Maps in various Downstream Tasks like Node Classification, Link Prediction, Recommnedation System, Community Detection, Clustering etc.. .
 
 
 <img src = "https://github.com/bharath000/GM_VE/blob/main/gm_project/label_graph_with_pos.png"/><br>
